@@ -1,0 +1,15 @@
+// set the gain
+//.5 => g.gain;
+1.0 => g.gain;
+
+// time loop
+while( true )
+{
+    // set the play position to beginning
+    0 => buf.pos;
+    // randomize gain a bit
+    Math.random2f(.8,.9) => buf.gain;
+
+    // advance time
+    1::T => now;
+}

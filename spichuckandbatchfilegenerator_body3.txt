@@ -1,0 +1,1 @@
+"D:/oifii-org/httpdocs/ns-org/nsd/ar/cp/audio_wave/test_recycle/" + "Underworld - Beaucoup Fish - 03 - Jumbo(intro)_7sec.mid 007.wav" => buf.read;
